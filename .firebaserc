@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "my-website-b154b"
+  },
+  "targets": {
+    "my-website-b154b": {
+      "hosting": {
+        "removecomments": [
+          "removecomments"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
