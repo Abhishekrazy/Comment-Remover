@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target":"removecomments",
     "public": "public",
     "ignore": [
       "firebase.json",
